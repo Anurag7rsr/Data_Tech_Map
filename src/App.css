@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+h1, h2 {
+  margin: 20px 0;
+}
